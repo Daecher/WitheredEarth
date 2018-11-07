@@ -1,0 +1,16 @@
+[
+{
+  "modid": "withearth",
+  "name": "Withered Earth Mod",
+  "description": "Because even the Nether needs love. And your soul.",
+  "version": "0.0.1",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Daecher"],
+  "credits": "Many, many patient ears and online tutorials. And cake.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
